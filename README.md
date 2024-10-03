@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# My Site
+My first site 
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--{Magnus39-starDragon/Mysite2}--{Magnus39-starDragon}.aem.page/
+- Live: https://main--{Magnus39-starDragon/Mysite2}--{Magnus39-starDragon}.aem.live/
 
 ## Installation
 
